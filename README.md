@@ -3,6 +3,6 @@ Onset of GST regime in India is a critical and a very strategic transition for I
 
 The purpose of this project is to help GSPs and ASPs understand how Azure DC platform, available in India, can help address most of the key challenges in building and operating a successful GST solution.
 
-Please refer to the "Azure Platform for GSP_<version>.pdf" document and the **Wiki** pages for discussions and suggestions to build robust GSP and ASP solution on Azure.
+Please refer to the "**Azure Platform for GSP_<version>.pdf**" document and the **Wiki** pages for discussions and suggestions to build robust GSP and ASP solution on Azure.
 
 Do share your feedback and suggestions.
